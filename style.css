@@ -1,0 +1,17 @@
+.swiper-button-prev,
+.swiper-button-next {
+  outline: none;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  max-height: 400px;
+}
